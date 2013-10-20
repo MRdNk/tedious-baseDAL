@@ -1,5 +1,5 @@
 {
-  "name": "tedious-baseDAL",
+  "name": "tedious-basedal",
   "version": "1.0.0",
   "description": "A Base DAL (data access layer) for tedious (node TDS for SQL Server)",
   "main": "index.js",
