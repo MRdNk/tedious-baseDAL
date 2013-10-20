@@ -6,12 +6,15 @@ A Base DAL (data access layer) for tedious (node TDS for SQL Server)
 install
 -------
 ```bash
-npm install tedious-baseDAL
+npm install tedious-basedal
 ```
 
 usage
 -----
 ```javascript
+
+  var BaseDAL = require('tedious-basedal')
+
   var id = 1
 
   var dal = new BaseDAL()
