@@ -29,7 +29,7 @@ usage
     value: id
   })
 
-  dal.ExecuteSPDataset('beds.spBed_GetBedByID', _params, function (err, data) {
+  dal.ExecuteSPDataset('dbo.usp_GetUserByID', _params, function (err, data) {
     if (err) console.error(err)
     else console.log(data)
     // => data {rows: [{column1: 'value'}], returnValue: 1}
