@@ -1,0 +1,33 @@
+{
+  "name": "tedious-baseDAL",
+  "version": "1.0.0",
+  "description": "A Base DAL (data access layer) for tedious (node TDS for SQL Server)",
+  "main": "index.js",
+  "dependencies": {
+    "tedious": "~0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MRdNk/tedious-baseDAL.git"
+  },
+  "keywords": [
+    "tedious",
+    "baseDAL",
+    "dal",
+    "'data",
+    "access",
+    "layer'",
+    "'sqlserver'",
+    "sql",
+    "server"
+  ],
+  "author": "mrdnk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MRdNk/tedious-baseDAL/issues"
+  }
+}
