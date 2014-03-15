@@ -14,6 +14,8 @@ usage
 ```javascript
 
   var BaseDAL = require('tedious-basedal')
+  var tedious     = require('tedious')
+  var TYPES       = tedious.TYPES
 
   var id = 1
 
